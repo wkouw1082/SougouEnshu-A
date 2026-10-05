@@ -6,8 +6,8 @@
 
 - 教科書 ([総合演習_A-3テキスト.pdf](総合演習A-3テキスト.pdf))
 - Pythonの基本文法に関する参考資料 (if文，for文について勉強したい場合)
-   - [Pythonの基本的な文法(2) : 条件分岐](https://github.com/YosukeSugiura/Introduction_to_Programming/tree/main/04_if)
-   - [Pythonの基本的な文法(3) : 繰り返し](https://github.com/YosukeSugiura/Introduction_to_Programming/tree/main/05_for)
+   - [Pythonの基本的な文法(2) : 条件分岐](https://github.com/wkouw1082/Introduction_to_Programming/tree/main/04_if)
+   - [Pythonの基本的な文法(3) : 繰り返し](https://github.com/wkouw1082/Introduction_to_Programming/tree/main/05_for)
 
 ## 各演習の内容・サンプルコード
 
@@ -22,7 +22,7 @@
    > 補足：
    > Numpy 配列の一部の行を取り出したり，一部の列を取り出すことをスライシングと呼びます．  
    > Numpy配列のスライシングの規則は以下を参考にしてください．
-   > - [Numoy配列のスライシング](https://github.com/YosukeSugiura/Introduction_to_Programming/tree/main/06_read_write#列と行の取り出し)  
+   > - [Numoy配列のスライシング](https://github.com/wkouw1082/Introduction_to_Programming/tree/main/06_read_write#列と行の取り出し)  
 
 ### - 演習3-2
 
@@ -33,8 +33,8 @@
    
    > 補足：
    > この演習は `for` ループや `if` を使って実装することができます．Pythonにおける `for` や `if` の書き方はネットで検索したり，以下のサイトを参考にしてください．  
-   > - [`for` ループの使い方](https://github.com/YosukeSugiura/Introduction_to_Programming/tree/main/05_for)  
-   > - [`if` の使い方](https://github.com/YosukeSugiura/Introduction_to_Programming/tree/main/04_if)  
+   > - [`for` ループの使い方](https://github.com/wkouw1082/Introduction_to_Programming/tree/main/05_for)  
+   > - [`if` の使い方](https://github.com/wkouw1082/Introduction_to_Programming/tree/main/04_if)  
 
 ### - 演習3-3
 
